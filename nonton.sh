@@ -15,8 +15,18 @@ apt update && apt upgrade
 apt install python python2
 apt install git
 apt install curl
+apt install ruby
+apt install nano
+pip2 install requests
+pip2 install mechanize
+pip2 install bs4
+pip2 install urllib3
+gem install lolcat
+gem install bundler
+os.system(clear)
 os.system(sleep 2)
 apt install busybox
+os.system(clear)
 os.system(sleep 3)
 echo \033[30;1mDimulai...
 os.system(sleep 4)
