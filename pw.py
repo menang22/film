@@ -1,6 +1,6 @@
 import os, sys
 
-print ("\033[30;1mSilahkan Masukkan Username & Password Anda")
+print ("\033[30;1mSilahkan Masukkan Username & Password Scriptnya")
 
 print ("\033[33;1matau silahkan Hubungi Author ")
 
