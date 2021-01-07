@@ -7,6 +7,7 @@ green=\033[33;1m'
 yellow=\033[35;1m'
 cyan=\033[34;1m'
 python2 pw.py
+toilet -f standard -F gay "NONTON FILM"
 echo \033[33;1mSelamat datang di menu nonton film starwars menang22
 echo nonton dimulai
 echo \033[31;1msilahkan install bahan terlebih dahulu
@@ -23,6 +24,8 @@ pip2 install bs4
 pip2 install urllib3
 gem install lolcat
 gem install bundler
+apt install toilet
+apt install figlet
 os.system(clear)
 os.system(sleep 2)
 apt install busybox
