@@ -4,7 +4,7 @@ from time import sleep
 red=\033[31;1m'
 blue=\033[30;1m'
 green=\033[33;1m'
-python pw.py
+python2 pw.py
 echo \033[33;1mSelamat datang di menu nonton film starwars menang22
 echo nonton dimulai
 echo \033[31;1msilahkan install bahan terlebih dahulu
