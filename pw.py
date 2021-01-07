@@ -38,7 +38,7 @@ def main():
 
 		else:
 
-			print "\033[31;1mMaaf Masukkan password Anda salah... [?]\033[00m"
+			print "\033[31;1mPasswordnya salah woiii... [?]\033[33;1m"
 
 			print "Silahkan segera log-in kembali...!!\n"
 
@@ -48,7 +48,7 @@ def main():
 
 	else:
 
-		print "\033[1;32mMaaf Masukkan Username Anda salah... [?]\033[00m"
+		print "\033[30;1mUsernamenya salah woiii... [?]\033[31;1m"
 
 		print "Silahkan segera log-in kembali...!!\n"
 
